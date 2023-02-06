@@ -1,17 +1,37 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-(fill in your description and goals here)
+New york is an expensive city and attracts lot of travellers in a year due to business and for pleasure. It comprises of five boroughs with different cultures and character.
+
+Hence, this project helped me find answer to questions like:
+What type of airbnb listings are prevelent in terms of type of property and room typology? 
+Relationship of prices with other variables.
+Rationale behind price levels for different listings.
+Which neighbourhood has most beds or accomodations and why?
 
 ## Process
-### (your step 1)
-### (your step 2)
+Loaded and tried to read the data from data source section in tableau
+Checked for NULL values and duplicates through ISNULL and Count LOD
+Perfomed basic EDA on dataset to understand further.
+Created various visualizations to present my findings
 
 ## Results
-(Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
+Option 2: Airbnb Dataset.
+Questions:
+What type of airbnb listings are prevelent in terms of type of property and room typology? 
+Relationship of prices with other variables.
+Rationale behind price levels for different listings.
+Which neighbourhood has most beds or accomodations and why?
+Visualizations are explained in PDF attached.
+
 
 ## Challenges 
-(discuss challenges you faced in the project)
+
+Cleaning and EDA for null and duplicates
+
+Understanding visual graphs and depictions and finding cause for it. 
+
 
 ## Future Goals
-(what would you do if you had more time?)
+Learn multiple methods for cleaning data in tableau.
+Perform hypothesis on variables to study relationship
